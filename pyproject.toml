@@ -9,6 +9,7 @@ dependencies = [
     "numpy>=1.22.0",
     "pandas>=2.3.3",
     "setuptools>=59.6.0",
+    "tabulate>=0.10.0",
     "torch>=1.5.1",
     "triton>=2.0.0",
 ]
